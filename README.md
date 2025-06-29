@@ -5,7 +5,7 @@ Welcome to my coding journey on GitHub!
 
 I’m constantly exploring new technologies to expand my skillset. I’m here to document my tech journey, showcase my projects, and connect with others in tech. My GitHub is a mix of everything I’m experimenting with, so feel free to look around! <br>
 
-<p> <font size="4" 🛠️ Skills & Tools </font> </p><hr>
+🛠️ Skills & Tools <br>
 Here’s a rundown of some of the skills and tools I’ve picked up so far. I’m always looking to add to this list. <br>
 - Current Focus: Python, LLM <br>
 - Languages: Java, C, C++, HTML, CSS, Javascript <br>
