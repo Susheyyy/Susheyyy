@@ -1,4 +1,4 @@
-## Welcome to my coding journey on GitHub!
+## 👋 Welcome to my coding journey on GitHub!
 
 - Sophomore at SIES Graduate of Technology majoring in Computer Engineering. <br>
 - Interested in Web Development and Machine Learning. <br>
@@ -11,13 +11,11 @@ Here’s a rundown of some of the skills and tools I’ve picked up so far. I’
 - Languages: Java, C, C++, HTML, CSS, Javascript <br>
 - Tools & Platforms: Git, Github, VSCode <br>
 
-[![Sushmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susheyyy)](https://github.com/Susheyyy/github-readme-stats)
-![Sushmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susheyy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Sushmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susheyyy&show_icons=true)
+[![Sushmita's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Susheyyy&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Susheyyy/github-readme-stats#gh-dark-mode-only)
 
-💭 Let's Connect
-Gmail: dsushii1511@gmail.com
-Linkedln: <site>
+💭 Get in touch: <br>
+Gmail: dsushii1511@gmail.com <br>
+Linkedln: https://www.linkedin.com/in/sushmita-das-66594b216 <br>
 
 Feel free to **star** my repositories, **follow** if you like what you see, or **open an issue** to say hi!
 
