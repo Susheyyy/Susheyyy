@@ -12,7 +12,7 @@ Here’s a rundown of some of the skills and tools I’ve picked up so far. I’
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cs,cpp,java,git,github,idea,vscode)](https://skillicons.dev)  <br>
 
-[![Sushmita's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Susheyyy&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Susheyyy/github-readme-stats#gh-dark-mode-only)
+[![Sushmita's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Susheyyy&show_icons=true&theme=dark#gh-dark-mode-only&cache_seconds=1800)](https://github.com/Susheyyy/github-readme-stats#gh-dark-mode-only)
 
 💭 **Get in touch:** 
 - Gmail: dsushii1511@gmail.com <br>
