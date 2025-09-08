@@ -6,8 +6,10 @@ Welcome to my coding journey on GitHub!
 
 🛠️ **Skills & Tools:** <br>
 Here’s a rundown of some of the skills and tools I’ve picked up so far. I’m always looking to add to this list. 
-- Current Focus: Python, LLM <br>
+- Current Focus: MERN, Django, Agentic AI <br>
 - Languages: Java, C, C++, HTML, CSS, Javascript <br>
+- Frameworks & Libraries: <br>
+- AI/ML: LLM <br>
 - Tools & Platforms: Git, Github, VSCode, Intellij IDEA <br> 
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cs,cpp,java,git,github,idea,vscode)](https://skillicons.dev)  <br>
