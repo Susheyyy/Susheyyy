@@ -6,9 +6,9 @@ Welcome to my coding journey on GitHub!
 
 🛠️ **Skills & Tools:** <br>
 Here’s a rundown of some of the skills and tools I’ve picked up so far. I’m always looking to add to this list. 
-- Current Focus: Python, Flask <br>
+- Current Focus: Python, Flask, Agentic AI <br>
 - Languages: Java, C, C++, HTML, CSS, Javascript <br>
-- Frameworks & Libraries: MERN, Tailwind CSS <br>
+- Frameworks & Libraries: Node, React, Express, Tailwind CSS <br>
 - AI/ML: LLM <br>
 - Tools & Platforms: Git, Github, VSCode, Colab, Figma, Intellij IDEA <br> 
   
