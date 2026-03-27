@@ -12,7 +12,7 @@ Here’s a rundown of some of the skills and tools I’ve picked up so far:
 - AI/ML: LLM <br>
 - Tools & Platforms: Git, Github, VSCode, Colab, Figma, Intellij IDEA <br> 
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cpp,java,express,react,nodejs,mongodb,git,github,idea,vscode,figma)](https://skillicons.dev)  <br>  <br> 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cpp,java,express,react,nodejs,flask,mongodb,git,github,idea,vscode,figma)](https://skillicons.dev)  <br>  <br> 
 [![Susheyyy's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Susheyyy&show_icons=true&theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 💭 **Get in touch:** 
