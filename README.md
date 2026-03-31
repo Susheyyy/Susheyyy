@@ -1,7 +1,8 @@
 ## 👋 Hi, Sushmita here!
 Welcome to my coding journey on GitHub!
 - Sophomore at SIES Graduate of Technology majoring in Computer Engineering with a minor in Data Science. <br>
-- Interested in Web Development, UI/UX, Machine Learning and Data Science. <br>
+- Skilled in Web Development and UI/UX <br>
+- Interested in Artificial Intelligence and Machine Learning <br>
 - I’m focused on building high-impact software and AI-driven applications. My GitHub is a mix of everything I’m experimenting with, so feel free to look around! <br>
 
 🛠️ **Skills & Tools:** <br>
