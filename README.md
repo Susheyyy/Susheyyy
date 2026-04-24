@@ -7,8 +7,8 @@ Welcome to my coding journey on GitHub!
 
 🛠️ **Skills & Tools:** <br>
 Here’s a rundown of some of the skills and tools I’ve picked up so far:
-- Current Focus: Java, Agentic AI <br>
-- Languages: C, C++, HTML, CSS, Javascript, Python <br>
+- Current Focus: Java, Agentic AI, Game Dev <br>
+- Languages: C, C++, HTML, CSS, Javascript <br>
 - Frameworks & Libraries: Node, React, Express, Tailwind CSS, Flask <br>
 - AI/ML: LLM <br>
 - Tools & Platforms: Git, Github, VSCode, Colab, Figma, Intellij IDEA <br> 
