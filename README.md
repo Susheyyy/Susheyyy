@@ -15,6 +15,8 @@ Here’s a rundown of some of the skills and tools I’ve picked up so far:
 - Linkedln: https://www.linkedin.com/in/sushmita-das15 <br>
 - Portfolio: https://susheyyy.github.io/Portfolio/ <br>
 
-Have a project in mind? Let's connect. <br>
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cpp,java,python,pytorch,astro,express,react,nodejs,flask,fastapi,mongodb,git,github,docker,vscode,vercel,figma)](https://skillicons.dev)  <br>  <br> 
+
+<p align="center">
+  Have a project in mind? Let's connect.
+</p>
