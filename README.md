@@ -13,8 +13,10 @@ Here’s a rundown of some of the skills and tools I’ve picked up so far:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cpp,java,python,pytorch,astro,express,react,nodejs,flask,fastapi,mongodb,git,github,docker,vscode,vercel,figma)](https://skillicons.dev)  <br>  <br> 
 
 <p align="center">
-  Have a project in mind? Let's connect.
-  - Gmail: sushmitadas1505@gmail.com <br>
-  - Linkedln: https://www.linkedin.com/in/sushmita-das15 <br>
-  - Portfolio: https://susheyyy.github.io/Portfolio/ <br>
+  <b>Have a project in mind? Let's connect!</b>
+  <br><br>
+  <a href="mailto:sushmitadas1505@gmail.com">Gmail</a> •
+  <a href="https://www.linkedin.com/in/sushmita-das15">LinkedIn</a> •
+  <a href="https://susheyyy.github.io/Portfolio/">Portfolio</a>
 </p>
+
