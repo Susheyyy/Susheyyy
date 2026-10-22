@@ -1,8 +1,8 @@
-## 👋 Hi, Sushmita here!
+## Hi, Sushmita here!
 - Junior at SIES Graduate of Technology majoring in Computer Engineering with a minor in Data Science. <br>
 - Aspiring AI Researcher and Full Stack Developer
 
-🛠️ **Skills & Tools:** <br>
+**Skills & Tools:** <br>
 Here’s a rundown of some of the skills and tools I’ve picked up so far:
 - Current Focus: Computer Vision, Deep Learning<br>
 - Languages: C, C++, HTML, CSS, Javascript, Python <br>
@@ -10,13 +10,11 @@ Here’s a rundown of some of the skills and tools I’ve picked up so far:
 - AI/ML: LLMs, RAG, LangChain, Prompt Engineering, Scikit-learn, PyTorch, TensorFlow <br>
 - Tools & Platforms: Git, GitHub, VS Code, Jupyter, Colab, Figma, Vercel, Render, Docker<br>
   
-💭 **Get in touch:** 
-- Gmail: sushmitadas1505@gmail.com <br>
-- Linkedln: https://www.linkedin.com/in/sushmita-das15 <br>
-- Portfolio: https://susheyyy.github.io/Portfolio/ <br>
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cpp,java,python,pytorch,astro,express,react,nodejs,flask,fastapi,mongodb,git,github,docker,vscode,vercel,figma)](https://skillicons.dev)  <br>  <br> 
 
 <p align="center">
   Have a project in mind? Let's connect.
+  - Gmail: sushmitadas1505@gmail.com <br>
+  - Linkedln: https://www.linkedin.com/in/sushmita-das15 <br>
+  - Portfolio: https://susheyyy.github.io/Portfolio/ <br>
 </p>
