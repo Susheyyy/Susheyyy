@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Sushmita Das, Computer Engineering at SIES GST"/>
+<img src="https://raw.githubusercontent.com/Susheyyy/Susheyyy/main/header.svg" width="100%" alt="Celestial Chart">
 
 <br/>
 
@@ -25,7 +25,7 @@
 ### GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=susheyyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats"/>
+  <img height="495" src="https://github-stats-extended.vercel.app/api?username=susheyyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats"/>
 <br/>
 </div>
 
