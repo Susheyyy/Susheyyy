@@ -4,19 +4,15 @@
 
 <br/>
 
-<a href="https://susheyyy.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/sushmita-das15"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/></a>
-<a href="mailto:sushmitadas1505@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email"/></a>
-
 </div>
 
-### About
+### About <hr/>
 
-Junior at SIES Graduate School of Technology, majoring in Computer Engineering with a minor in Data Science.
+- Junior at SIES Graduate School of Technology, majoring in Computer Engineering with a minor in Data Science.
 
-Currently exploring **Computer Vision and Deep Learning**, alongside building full-stack applications and experimenting with AI systems.
+- Currently exploring **Computer Vision and Deep Learning**, alongside building full-stack applications and experimenting with AI systems.
 
-### Tech Stack
+### Tech Stack <hr/>
 
 **Languages** &nbsp; `Python` `C++` `C` `JavaScript` `HTML` `CSS`
 
@@ -29,10 +25,8 @@ Currently exploring **Computer Vision and Deep Learning**, alongside building fu
 ### GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=susheyyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susheyyy&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=susheyyy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=susheyyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats"/>
+<br/>
 </div>
 
 <div align="center">
@@ -41,6 +35,4 @@ Currently exploring **Computer Vision and Deep Learning**, alongside building fu
 
 <a href="mailto:sushmitadas1505@gmail.com">Email</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/sushmita-das15">LinkedIn</a> &nbsp; · &nbsp; <a href="https://susheyyy.github.io/Portfolio/">Portfolio</a>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1" width="100%"/>
+</div>  
