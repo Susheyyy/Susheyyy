@@ -1,10 +1,6 @@
 <div align="center">
 
-# Sushmita Das
-
-**Computer Engineering @ SIES GST · AI/ML · Full-Stack Development**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1" width="100%"/>
+<img src="https://raw.githubusercontent.com/Susheyyy/Susheyyy/main/header-1.svg" width="100%" alt="Celestial Chart">
 
 </div>
 
